@@ -8,4 +8,4 @@ Link do site: http://cardosoeavila.com.br/
 Serviço prestado para One8020
 <br>
 <br>
-<a href=" https://one8020.com.br/">![one-8020-logo](https://user-images.githubusercontent.com/75333134/181806552-e67abc03-0bf0-445a-8971-117f44f3aee1.png)</a>
+<a href=" https://one8020.com.br/">![one-8020-logo]( https://one8020.com.br/)</a>
