@@ -1,0 +1,93 @@
+
+     https://swapi.dev/api/people/20/
+     Yoda
+
+const respostayoda = response__x;
+
+      var msn = {
+          type: 'text',
+            text: 'Altura: ' + respostayoda.height +'\r\n'
+            + 'Peso: ' + respostayoda.mass +'\r\n' + 'Cor do cabelo: ' + respostayoda.hair_color +'\r\n' +
+            'Cor da roupa: ' + respostayoda.skin_color + '\r\n' + 'Cor dos Olhos: ' + respostayoda.eye_color +'\r\n' + 
+            'Aniversário: ' + respostayoda.birth_year +'\r\n' + 'Genero: ' + respostayoda.gender +'\r\n' + 
+             'Filmes que fez parte: \r\n The Empire Strikes Back; \r\n Return of the Jedi; \r\n The Phantom Menace; \r\n Attack of the Clones; \r\n Revenge of the Sith. ' 
+      }
+       send_message.push(msn);
+  
+
+       =========
+       Luke
+
+       https://swapi.dev/api/people/1/
+       const resposta = response__x;
+
+      var msn = {
+          type: 'text',
+            text: 'Altura: ' + resposta.height +'\r\n'
+            + 'Peso: ' + resposta.mass +'\r\n' + 'Cor do cabelo: ' + resposta.hair_color +'\r\n' +
+            'Cor da roupa: ' + resposta.skin_color + '\r\n' + 'Cor dos Olhos: ' + resposta.eye_color +'\r\n' + 
+            'Aniversário: ' + resposta.birth_year +'\r\n' + 'Genero: ' + resposta.gender +'\r\n' + 
+             'Filmes que fez parte: \r\n A New Hope; \r\n The Empire Strikes Back; \r\n Return of the Jedi; \r\n Revenge of the Sith. ' 
+      }
+       send_message.push(msn);
+
+
+       ======================
+       Leia
+       https://swapi.dev/api/people/5/
+       const resposta = response__x;
+
+      var msn = {
+          type: 'text',
+            text: 'Altura: ' + resposta.height +'\r\n'
+            + 'Peso: ' + resposta.mass +'\r\n' + 'Cor do cabelo: ' + resposta.hair_color +'\r\n' +
+            'Cor da roupa: ' + resposta.skin_color + '\r\n' + 'Cor dos Olhos: ' + resposta.eye_color +'\r\n' + 
+            'Aniversário: ' + resposta.birth_year +'\r\n' + 'Genero: ' + resposta.gender +'\r\n' + 
+             'Filmes que fez parte: \r\n A New Hope; \r\n The Empire Strikes Back; \r\n Return of the Jedi; \r\n Revenge of the Sith. ' 
+      }
+       send_message.push(msn);
+
+       ==================
+       Darth Vader
+https://swapi.dev/api/people/4/
+
+         
+
+const resposta = response__x;
+
+var msn = {
+    type: 'text',
+      text: 'Altura: ' + resposta.height +'\r\n'
+      + 'Peso: ' + resposta.mass +'\r\n' + 'Cor do cabelo: ' + resposta.hair_color +'\r\n' +
+      'Cor da roupa: ' + resposta.skin_color + '\r\n' + 'Cor dos Olhos: ' + resposta.eye_color +'\r\n' + 
+      'Aniversário: ' + resposta.birth_year +'\r\n' + 'Genero: ' + resposta.gender +'\r\n' + 
+       'Filmes que fez parte: \r\n A New Hope; \r\n The Empire Strikes Back; \r\n Return of the Jedi; \r\n Revenge of the Sith. ' 
+}
+ send_message.push(msn);
+
+ =====
+ Han Solo
+ https://swapi.dev/api/people/14/
+
+
+
+ const resposta = response__x;
+
+ var msn = {
+     type: 'text',
+       text: 'Altura: ' + resposta.height +'\r\n'
+       + 'Peso: ' + resposta.mass +'\r\n' + 'Cor do cabelo: ' + resposta.hair_color +'\r\n' +
+       'Cor da roupa: ' + resposta.skin_color + '\r\n' + 'Cor dos Olhos: ' + resposta.eye_color +'\r\n' + 
+       'Aniversário: ' + resposta.birth_year +'\r\n' + 'Genero: ' + resposta.gender +'\r\n' + 
+        'Filmes que fez parte: \r\n A New Hope; \r\n The Empire Strikes Back; \r\n Return of the Jedi. ' 
+ }
+  send_message.push(msn);
+         
+
+         
+  
+
+         
+
+         
+  
